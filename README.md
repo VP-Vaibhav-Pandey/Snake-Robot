@@ -15,6 +15,3 @@ Images
 ![r5](https://github.com/VP-Vaibhav-Pandey/Snake-Robot/assets/167122948/7f323c71-2395-4774-80ba-a6fbd7e6ab3b)
 
 
-
-https://github.com/VP-Vaibhav-Pandey/Snake-Robot/assets/167122948/4cb0590a-f4d0-4df1-a927-5921172dbd8e
-
